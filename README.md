@@ -1,6 +1,6 @@
 ### Hi there i am Mário Jambo 👋
 
-<h1>Programador Web FullStack</h1>
+<h1>Programador Web & Mobile FullStack</h1>
 <br><br>
 
 - 🔭 I’m currently working  with web programming specifically with JavaScript,Java, Node, Angular, and among other complementary technologies and frameworks ...
