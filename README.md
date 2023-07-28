@@ -27,9 +27,12 @@
   <li>TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</li>
 </ul>
 
-<h3 align="center">**👯 Buscando colaborar em projetos web usando:** HTML, CSS, JavaScript/Node.js ou React.js.</h3>
+<h3 align="center">👯 Buscando colaborar em projetos web com as tecnologias:</h3>
+<ul>
+  <li>HTML, CSS, JavaScript/Node.js, express React.js.</li>
+</ul>
 
-<h3 align="center">### 📫 Como me encontrar:</h3>
+<h3 align="center">📫 Como me encontrar:</h3>
 <p align="center">
   <a href="https://mariojambo.netlify.app" target="_blank">
     <img height="30" src="https://img.shields.io/badge/P%C3%A1gina%20Pessoal-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
