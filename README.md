@@ -7,29 +7,33 @@
 
 <h3 align="center">🛠 Tecnologias & Ferramentas:</h3>
 <p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion/notion.svg">
-
+  <!-- Frontend -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antd/antd-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss/tailwindcss-plain.svg">
+  <!-- Backend & Database -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <!-- Databases -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss/tailwindcss.svg">
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/antdesign/antdesign.svg">
-<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap/bootstrap.svg">
-<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql/mysql.svg">
-<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase/firebase.svg">
-<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify/netlify.svg">
-<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel/vercel.svg">
-
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <!-- Cloud Services -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify/netlify-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-plain.svg">
+  <!-- Other Tools -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion/notion-plain.svg">
 </p>
 <h3 align="center">🌱 Atualmente aprendendo:</h3>
 <ul align="center">
