@@ -19,7 +19,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antd/antd-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antd/antd-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 
   <!-- Backend & Database -->
