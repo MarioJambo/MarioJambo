@@ -20,7 +20,6 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canvasjs/canvasjs-plain.svg">
 </p>
 <h3 align="center">🌱 Atualmente aprendendo:</h3>
 <ul align="center">
