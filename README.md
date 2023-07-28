@@ -22,7 +22,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg">
 </p>
 
-<h3 align="center">**🌱 Atualmente aprendendo:</h3>
+<h3 align="center">🌱 Atualmente aprendendo:</h3>
 <ul>
   <li>TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</li>
 </ul>
