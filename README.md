@@ -19,6 +19,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg">
 </p>
 
 <h3 align="center">**🌱 Atualmente aprendendo:</h3>
