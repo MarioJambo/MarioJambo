@@ -5,7 +5,7 @@
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJambo&layout=compact&langs_count=7&theme=dark"/>
   
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonmatola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="edilsonmatola" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MarioJambo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="MarioJambo" /></p>
 
 </p>
 
@@ -41,9 +41,6 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-
-  <!-- GitHub Readme Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edilsonmatola&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="edilsonmatola" align="center" />
 </p>
 
 <h3 align="center">🌱 Atualmente aprendendo:</h3>
