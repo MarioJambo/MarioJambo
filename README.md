@@ -23,12 +23,12 @@
 </p>
 
 <h3 align="center">🌱 Atualmente aprendendo:</h3>
-<ul>
+<ul align="center">
   <li>TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</li>
 </ul>
 
 <h3 align="center">👯 Buscando colaborar em projetos web com as tecnologias:</h3>
-<ul>
+<ul align="center">
   <li>HTML, CSS, JavaScript/Node.js, express React.js.</li>
 </ul>
 
