@@ -3,6 +3,10 @@
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarioJambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJambo&layout=compact&langs_count=7&theme=dark"/>
+  ## <summary><b>🔥 Github Streaks</b></summary>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonmatola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="edilsonmatola" /></p>
+
 </p>
 
 <h3 align="center">🛠 Tecnologias & Ferramentas:</h3>
