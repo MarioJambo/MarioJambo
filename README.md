@@ -1,11 +1,11 @@
-### Olá, sou Mário Jambo! 👋
+<h1 align="center" >### Prazer, sou Mário Jambo! 👋</h1>
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarioJambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJambo&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-<h1 align="center">**🛠 Tecnologias & Ferramentas:**</h1>
+<h3 align="center">**🛠 Tecnologias & Ferramentas:**</h3>
 <p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
@@ -19,11 +19,11 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </p>
 
-<h1 align="center">**🌱 Atualmente aprendendo:** TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</h1>
+<h3 align="center">**🌱 Atualmente aprendendo:** TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</h3>
 
-<h1 align="center">**👯 Buscando colaborar em projetos web usando:** HTML, CSS, JavaScript/Node.js ou React.js.</h1>
+<h3 align="center">**👯 Buscando colaborar em projetos web usando:** HTML, CSS, JavaScript/Node.js ou React.js.</h3>
 
-<h1 align="center">### 📫 Como me encontrar:</h1>
+<h3 align="center">### 📫 Como me encontrar:</h3>
 <p align="center">
   <a href="https://mariojambo.netlify.app" target="_blank">
     <img height="30" src="https://img.shields.io/badge/P%C3%A1gina%20Pessoal-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
@@ -39,4 +39,4 @@
   </a>
 </p>
 
-Sinta-se à vontade para me contatar para colaborar em projetos com as tecnologias que domino!
+<marquee>Sinta-se à vontade para me contatar para colaborar em projetos com as tecnologias que domino!</marquee>
