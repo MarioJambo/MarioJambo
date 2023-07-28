@@ -1,4 +1,4 @@
-<h1 align="center" >### Prazer, sou Mário Jambo! 👋</h1>
+<h1 align="center" > Prazer,  Mário Jambo! 👋</h1>
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarioJambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
