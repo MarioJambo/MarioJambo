@@ -5,7 +5,7 @@
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJambo&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-<h3 align="center">**🛠 Tecnologias & Ferramentas:**</h3>
+<h3 align="center">🛠 Tecnologias & Ferramentas:</h3>
 <p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg">
@@ -19,7 +19,10 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </p>
 
-<h3 align="center">**🌱 Atualmente aprendendo:** TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</h3>
+<h3 align="center">**🌱 Atualmente aprendendo:</h3>
+<ul>
+  <li>TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</li>
+</ul>
 
 <h3 align="center">**👯 Buscando colaborar em projetos web usando:** HTML, CSS, JavaScript/Node.js ou React.js.</h3>
 
