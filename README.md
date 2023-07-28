@@ -7,6 +7,8 @@
 
 <h3 align="center">🛠 Tecnologias & Ferramentas:</h3>
 <p align="center">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion/notion.svg">
+
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,6 +18,14 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss/tailwindcss.svg">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/antdesign/antdesign.svg">
+<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap/bootstrap.svg">
+<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql/mysql.svg">
+<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase/firebase.svg">
+<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify/netlify.svg">
+<img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel/vercel.svg">
+
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
