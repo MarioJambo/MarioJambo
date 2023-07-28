@@ -3,7 +3,7 @@
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarioJambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJambo&layout=compact&langs_count=7&theme=dark"/>
-  ## <summary><b align="center">🔥 Github Streaks</b></summary>
+  
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonmatola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="edilsonmatola" /></p>
 
@@ -17,27 +17,35 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antd/antd-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss/tailwindcss-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antd/antd-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+
   <!-- Backend & Database -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+
   <!-- Databases -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+
   <!-- Cloud Services -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify/netlify-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify/netlify-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-plain.svg">
+
   <!-- Other Tools -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion/notion-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+
+  <!-- GitHub Readme Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edilsonmatola&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="edilsonmatola" align="center" />
 </p>
+
 <h3 align="center">🌱 Atualmente aprendendo:</h3>
 <ul align="center">
   <li>TypeScript, React.js, Spring Boot, React Native(Android), Postgress & Figma.</li>
